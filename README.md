@@ -3,9 +3,9 @@
 ## I'm a Student!!
 
 - 🔭 I’m currently not working in any company.
-- 🌱 I’m currently learning Python, Computer Hardware, Computer Networking, Computer Security.
+- 🌱 I’m currently learning Python and also Preparing for OSCP.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2020 Goals: Contribute more to Open Source Python projects. 
+- 🥅 2022 Goals: Contribute more to Open Source Python projects. 
 - ⚡ Fun fact: Whenever I'm not busy, I mostly go to a place in my city.
 
 ### Connect with me:
