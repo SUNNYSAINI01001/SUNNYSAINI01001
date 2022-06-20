@@ -3,9 +3,9 @@
 ## I'm a Student!!
 ```
 - 🔭 I’m currently not working in any company.
-- 🌱 I’m currently learning Python and also Preparing for OSCP.
+- 🌱 I’m currently learning C++ and also Preparing for eCPPTv2.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2022 Goals: Contribute more to Open Source Python projects and Clearing OSCP exam. 
+- 🥅 2022 Goals: Contribute more to Open Source Python projects and Clearing eCPPTv2 exam. 
 - ⚡ Fun fact: Whenever I'm not busy, I mostly go to a place in my city.
 ```
 ### Connect with me:
