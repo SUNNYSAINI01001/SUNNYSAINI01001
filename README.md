@@ -7,18 +7,21 @@
 - 🥅 I’m looking to collaborate with other content creators and Industries.
 - ⚡ Fun fact: Whenever I'm not busy, I mostly go to a place in my city.
 ```
-### Connect with me:
+### Connect with us:
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][YouTube]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Telegram]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Facebook]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+<!-- display the social media buttons in README -->
 
-<br>
+[![YouTube](https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg (YouTube))][1]
+[![Telegram](https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Telegram.svg (Telegram))][7]
+[![instagram](https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg (Instagram))][2]
+[![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][3]
+[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
 
 
-[Twitter]: https://twitter.com/sunnysaini01001
-[Instagram]: https://www.instagram.com/sunnysaini01001
-[Linkedin]: https://www.linkedin.com/in/sunny-saini-3520a2206
+<!-- To Link your profile to the media buttons -->
+
+[1]: https://www.youtube.com/@HexaDefend
+[2]: https://www.instagram.com/hexadefend
+[3]: https://www.twitter.com/hexadefend
+[4]: https://www.linkedin.com/company/hexadefend
+[7]: https://t.me/hexadefend
