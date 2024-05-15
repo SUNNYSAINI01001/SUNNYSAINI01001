@@ -1,9 +1,7 @@
 ## Hi there, I'm Sunny Saini.  👋
 
 ```
-- 🔭 I’m Founder of Hexa Defend - A Security Testing Firm.
-- 🧑‍💻 We provide Security Testing Services to all size of Business, Individual and Cyber Security Education, Bootcamp to Students.
-- 👯 4+ Year of Experience in Penetration Testing
+- 👯 5+ Year of Experience in Penetration Testing
 - 🥅 I’m looking to collaborate with other Content Creators and Companies.
 - ⚡ Fun fact: Whenever I'm not busy, I mostly go to a place in my city.
 ```
@@ -22,9 +20,9 @@
 
 <!-- To Link your profile to the media buttons -->
 
-[1]: https://www.youtube.com/@HexaDefend
-[2]: https://www.instagram.com/hexadefend
-[3]: https://www.twitter.com/hexadefend
-[4]: https://www.linkedin.com/company/hexadefend
-[5]: https://www.facebook.com/hexadefendofficial/
-[7]: https://t.me/hexadefend
+[1]: <!-- URL -->
+[2]: <!-- URL -->
+[3]: <!-- URL -->
+[4]: <!-- URL -->
+[5]: <!-- URL -->
+[7]: <!-- URL -->
