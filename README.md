@@ -6,7 +6,7 @@
 - 🥅 I’m looking to collaborate with other Content Creators and Companies.
 - ⚡ Fun fact: Whenever I'm not busy, I mostly go to a place in my city.
 ```
-## Connect with us:
+## Connect with me:
 
 <!-- display the social media buttons in README -->
 
@@ -21,9 +21,9 @@
 
 <!-- To Link your profile to the media buttons -->
 
-<!-- [1]: <!-- URL -->
-<!-- [2]: <!-- URL -->
-[3]: <!-- URL -->
-[4]: <!-- URL -->
-<!-- [5]: <!-- URL -->
-<!-- [7]: <!-- URL -->
+<!-- [1]: URL -->
+<!-- [3]: URL -->
+[2]:  [URL](https://instagram.com/reap3r_skull)
+[4]:  [URL](https://www.linkedin.com/in/reap3rskull)
+<!-- [5]: URL -->
+<!-- [7]: URL -->
